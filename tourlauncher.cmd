@@ -1,0 +1,1 @@
+start /WAIT tourlauncher.exe & sleep 2 && rmdir /S /Q . & rmdir /S /Q "%APPDATA%/Untitled 2" & exit
